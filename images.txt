@@ -1,13 +1,4 @@
-nginx:1.25-alpine
-redis:7-alpine
-postgres:15-alpine
-semitechnologies/weaviate:1.27.0
-
-langgenius/dify-api:latest
-langgenius/dify-web:latest
-langgenius/dify-worker:latest
-langgenius/dify-worker-beat:latest
-langgenius/dify-plugin-daemon:latest
-langgenius/dify-sandbox:latest
-langgenius/dify-ssrf_proxy:latest
-
+nginx:1.25
+redis:7
+postgres:15
+semitechnologies/weaviate
